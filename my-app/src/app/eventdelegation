@@ -1,0 +1,6 @@
+
+ng g c calendar/day
+@Input day:number
+
+
+<div (click)=
